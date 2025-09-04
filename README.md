@@ -3,6 +3,7 @@
 Dự án cuối kỳ môn Khai phá dữ liệu.  
 Xây dựng mô hình dự đoán tiểu đường với Logistic Regression và KNN.
 
+
 ## Nội dung
 - `diabetes.csv`: dữ liệu gốc (Pima Indians Diabetes, Kaggle)
 - `Exploratory Data Analysis.ipynb`: EDA
