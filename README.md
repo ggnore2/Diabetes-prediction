@@ -15,8 +15,3 @@ Xây dựng mô hình dự đoán tiểu đường với Logistic Regression và
 - Python 3.11  
 - pandas, numpy, scikit-learn, seaborn, matplotlib  
 
-## Cách chạy
-```bash
-git clone https://github.com/<username>/diabetes-prediction.git
-cd diabetes-prediction
-pip install -r requirements.txt
